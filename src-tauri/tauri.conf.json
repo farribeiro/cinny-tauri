@@ -14,7 +14,7 @@
       "iconPath": "icons/tray.png"
     },
     "bundle": {
-      "active": true,
+      "active": false,
       "targets": "all",
       "identifier": "cinny.tauri",
       "icon": [
